@@ -11,9 +11,9 @@ read cmmt
 echo You commit: $cmmt
 git commit -m "$cmmt </> $(date +"%a, %Y-%m-%d, %H:%M:%S %Z %j")"
 
-git pull origin home
-git push origin home
-#git push -f origin home
+git pull origin 9to5
+git push origin 9to5
+#git push -f origin 9to5
 
 git status
 
