@@ -1,0 +1,2 @@
+terms & condition
+- Configure -> ggl account -> Security -> Less secure app access -> off to on
